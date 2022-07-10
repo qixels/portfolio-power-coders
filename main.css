@@ -1,0 +1,109 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.title-h1 {
+  text-align: center;
+  color: black;
+}
+
+.img {
+  float: right;
+  margin: 28px;
+}
+
+.navigate-list {
+}
+
+.nav-link {
+  color: #dfdfdf;
+}
+
+.main {
+  margin: auto 3%;
+}
+
+.achievements {
+  line-height: 25px;
+}
+
+.title-h3 {
+  text-align: justify;
+}
+
+.company-list {
+  margin: 8px auto;
+}
+
+.achi-span {
+  color: #000;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 15px;
+}
+
+.partnerts-list {
+}
+
+.partners-list-link {
+}
+.parag {
+  text-indent: 3ch;
+}
+
+.about-me {
+  margin-top: 20px;
+  /* text-align: center; */
+}
+
+.programm-list {
+  text-align: justify;
+}
+
+.programm-name {
+}
+
+.table-first-work {
+  width: 100%;
+}
+
+.first-column {
+  width: 25%;
+  font-size: 16px;
+  text-align: right;
+}
+
+.second-column {
+  /* border: 1px solid black; */
+  font-size: 15px;
+  text-align: left;
+  padding-left: 30px;
+}
+
+.table-list {
+  padding-left: 14px;
+}
+
+.separator {
+  height: 80px;
+  margin: 50px;
+  text-align: center;
+  /* border: 1px solid black; */
+  vertical-align: bottom;
+}
+
+.list-social-and-achievements {
+  padding-left: 14px;
+}
+
+.list-organization-and-achievements {
+  padding-left: 14px;
+}
+
+.list-computers-skills-knowledge {
+  padding-left: 14px;
+}
+
+.list-personal-skills {
+  padding-left: 14px;
+}
